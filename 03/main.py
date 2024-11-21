@@ -1,3 +1,4 @@
+#Izvēlies skaitli un terminlī parādas list ar norādītajiem skaitļiem līdz tavam uzraksītam skaitlim.
 a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 
 num = int(input("Choose a number: "))
